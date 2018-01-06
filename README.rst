@@ -4,8 +4,8 @@ Recurrence Quantification Analysis (RQA)
 
 * This repository provides example code for RQA. 
 
-	- Example1: [Toy code]()
-	- Example2: [PyRQA]()
+	- Example1: [Numpy](https://github.com/jaekookang/recurrence_quantification_analysis/blob/master/example_numpy.ipynb)
+	- Example2: [PyRQA](https://github.com/jaekookang/recurrence_quantification_analysis/blob/master/example_pyrqa.ipynb)
 	  
 
 * References:
